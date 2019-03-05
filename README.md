@@ -3,11 +3,34 @@
 ![Gráfico 01](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/readme-images/Readme-img-01.png)
 
 
-Usando VanillaJS, HTML y CSS, **AREA 51 CIPHER** es una aplicación web creada para brindarte seguridad cuando compartes información.
-En el área tecnológica, especialmente por el ritmo de trabajo, los programadores requieren estar en comunicación constante, compartiendo información que muchas veces es confidencial y una característica infalible en el sistema que decidan usar es la SEGURIDAD.
+Usando VanillaJS, HTML y CSS, AREA 51 CIPHER es una aplicación web creada para brindar seguridad a quienes trabajan en el área de tecnología cuando comparten información. 
+
+Especialmente por el ritmo de trabajo, los programadores requieren estar en comunicación constante, compartiendo información que muchas veces es confidencial y una característica infalible en el sistema que decidan usar es la SEGURIDAD.
 
 ![Gráfico 02](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/readme-images/Readme-img-02.png)
 
+
+**AREA 51 Cipher** está especialmente dirigido a personas de 20-45 años que trabajen en el Área de Tecnología y necesiten comunicarse con sus equipos de forma segura.
+
+
+Al realizar entrevistas con usuarios, estos compartieron que de una app de cifrado desean:
+
+*"Una característica que me gustaría es la opción para copiar".*
+
+*"Que sea lo más sencillo posible".*
+
+*"Una interfaz limpia, simple".*
+
+*"Quiero poder compartir el mensaje fácilmente".*
+
+
+Lo más resaltante durante las entrevistas es la seguridad:
+
+*"Usaría una app que asegure que mi información se mantendrá confidencial, que nadie más tendrá acceso".*
+
+En consecuencia, *AREA 51 Cipher* ofrece un sistema de **Cifrado César Reloaded**, además de la posibilidad de compartir los mensajes directamente desde la web, ya sea a través de WhatsApp o correo electrónico.
+
+[AQUÍ puedes escuchar las entrevistas](https://drive.google.com/drive/folders/1802L6TP0h8Kr1qmDMhn2ZvQaK7cuVpXr?usp=sharing)
 
 **Area 51 Cipher** ofrece un sistema de **Cifrado César Reloaded**.
 
