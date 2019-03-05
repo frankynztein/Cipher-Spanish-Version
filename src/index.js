@@ -29,11 +29,6 @@ function copyMessage() {
     tooltip.innerHTML = "Copiado";
 }
 
-// ENGLISH BUTTON
-btnEnglish.addEventListener('click', () => {
-    alert('hello');
-})
-
 // SPANISH BUTTON
 btnSpanish.addEventListener('click', () => {
     welcomeArea.style.display = 'none';
