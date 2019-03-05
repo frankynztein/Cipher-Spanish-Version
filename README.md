@@ -3,9 +3,9 @@
 ![Gráfico 01](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/readme-images/Readme-img-01.png)
 
 
-Usando VanillaJS, HTML y CSS, AREA 51 CIPHER es una aplicación web creada para brindar seguridad a quienes trabajan en el área de tecnología cuando comparten información. 
+Usando VanillaJS, HTML y CSS, **AREA 51 CIPHER** es una aplicación web creada para brindar seguridad a quienes trabajan en el área de tecnología cuando comparten información. 
 
-Especialmente por el ritmo de trabajo, los programadores requieren estar en comunicación constante, compartiendo información que muchas veces es confidencial y una característica infalible en el sistema que decidan usar es la SEGURIDAD.
+Especialmente por el ritmo de trabajo, los programadores requieren estar en comunicación constante, compartiendo información que muchas veces es confidencial y una característica infalible en el sistema que decidan usar es la **SEGURIDAD**.
 
 ![Gráfico 02](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/readme-images/Readme-img-02.png)
 
@@ -28,13 +28,13 @@ Lo más resaltante durante las entrevistas es la seguridad:
 
 *"Usaría una app que asegure que mi información se mantendrá confidencial, que nadie más tendrá acceso".*
 
-En consecuencia, *AREA 51 Cipher* ofrece un sistema de **Cifrado César Reloaded**, además de la posibilidad de compartir los mensajes directamente desde la web, ya sea a través de WhatsApp o correo electrónico.
+En consecuencia, **AREA 51 Cipher** ofrece un sistema de **Cifrado César Reloaded**, además de la posibilidad de compartir los mensajes directamente desde la web, ya sea a través de WhatsApp o correo electrónico.
 
 [AQUÍ puedes escuchar las entrevistas](https://drive.google.com/drive/folders/1802L6TP0h8Kr1qmDMhn2ZvQaK7cuVpXr?usp=sharing)
 
 **Area 51 Cipher** ofrece un sistema de **Cifrado César Reloaded**.
 
-Quizás sepas que el Cifrado César es una de las técnicas más simples para cifrar un mensaje. Es un tipo de cifrado por sustitución, es decir que cada letra del texto original es reemplazada por otra que se encuentra un número fijo de posiciones (desplazamiento) más adelante en el mismo alfabeto.
+Quizás sepas que el *Cifrado César* es una de las técnicas más simples para cifrar un mensaje. Es un tipo de cifrado por sustitución, es decir que cada letra del texto original es reemplazada por otra que se encuentra un número fijo de posiciones (desplazamiento) más adelante en el mismo alfabeto.
 
 Por ejemplo, si usamos una clave de cifrado (Key) de 3 posiciones:
 - La letra *A* se cifra como *D*.
