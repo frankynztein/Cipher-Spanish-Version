@@ -26,20 +26,20 @@ function copyMessage() {
     copyText.select();
     document.execCommand("copy");
     var tooltip = document.getElementById("myTooltip");
-    tooltip.innerHTML = "Copied";
+    tooltip.innerHTML = "Copiado";
 }
 
 // ENGLISH BUTTON
 btnEnglish.addEventListener('click', () => {
-    welcomeArea.style.display = 'none';
-    encodeScreen.style.display = 'block';
-    decodeScreen.style.display = 'block';
-    offsetScreen.style.display = 'block';
+    alert('hello');
 })
 
 // SPANISH BUTTON
 btnSpanish.addEventListener('click', () => {
-    alert('Hola');
+    welcomeArea.style.display = 'none';
+    encodeScreen.style.display = 'block';
+    decodeScreen.style.display = 'block';
+    offsetScreen.style.display = 'block';
 })
 
 // TEACHME BUTTON
