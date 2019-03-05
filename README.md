@@ -1,15 +1,15 @@
 ﻿# AREA 51 CIPHER
 
-![Gráfico 01](https://github.com/frankynztein/LIM009-Cipher/blob/master/images/readme-images/Readme-img-01.png)
+![Gráfico 01](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/readme-images/Readme-img-01.png)
 
 
 Usando VanillaJS, HTML y CSS, **AREA 51 CIPHER** es una aplicación web creada para brindarte seguridad cuando compartes información.
 En el área tecnológica, especialmente por el ritmo de trabajo, los programadores requieren estar en comunicación constante, compartiendo información que muchas veces es confidencial y una característica infalible en el sistema que decidan usar es la SEGURIDAD.
 
-![Gráfico 02](https://github.com/frankynztein/LIM009-Cipher/blob/master/images/readme-images/Readme-img-02.png)
+![Gráfico 02](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/readme-images/Readme-img-02.png)
 
 
-**Area** 51 Cipher ofrece un sistema de **Cifrado César Reloaded**.
+**Area 51 Cipher** ofrece un sistema de **Cifrado César Reloaded**.
 
 Quizás sepas que el Cifrado César es una de las técnicas más simples para cifrar un mensaje. Es un tipo de cifrado por sustitución, es decir que cada letra del texto original es reemplazada por otra que se encuentra un número fijo de posiciones (desplazamiento) más adelante en el mismo alfabeto.
 
@@ -21,7 +21,7 @@ Por ejemplo, si usamos una clave de cifrado (Key) de 3 posiciones:
 
 *Pero ¿por qué Reloaded?* - se preguntarán.
 
-![Gráfico 03](https://github.com/frankynztein/LIM009-Cipher/blob/master/images/readme-images/Readme-img-03.png)
+![Gráfico 03](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/readme-images/Readme-img-03.png)
 
 
 En este sistema las letras no siempre corresponden a letras y los números no siempre corresponden a números.
@@ -30,25 +30,33 @@ Por ejemplo: usando un desplazamiento de 30, la letra *A* se cifraría a *"_"*.
 
 Además, tomando en cuenta que los fragmentos de código forman parte de la información que comparten, se ofrece soporte para caracteres especiales (*+´{}[]... etc). Tampoco se deja de lado a los usuarios latinoamericanos, por lo que también incluye soporte para vocales acentuadas y letra "ñ".
 
+## Comparte tus mensajes
+
+![Gráfico 04](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/readme-images/Readme-img-04.png)
+
+¿Necesitas enviar el mensaje rápidamente? ¡Tranquilx! WhatsApp viene al rescate con un enlace.
+Y para los más conservadores, el correo electrónico.
 
 ## Usar Area 51 Cipher es la parte más sencilla ;)
 
 
-Así verás la pantalla de inicio:
+Así verás la pantalla de inicio. Tan sólo eliges tu idioma y ¡listx para cifrar!
 
-![Gráfico 04](https://github.com/frankynztein/LIM009-Cipher/blob/master/images/readme-images/Readme-img-05.png)
+![Gráfico 05](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/spanish/cipher05.jpg)
 
-
-Si quieres cifrar un mensaje importante (*o simplemente no quieres que alguien no deseado pueda entenderlo*), escribirás o pegarás tu mensaje en la sección de **Encode your message** y click en **Encode**:
-
-![Gráfico 05](https://github.com/frankynztein/LIM009-Cipher/blob/master/images/readme-images/Readme-img-06.png)
+![Gráfico 06](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/spanish/cipher01.jpg)
 
 
-En caso de querer decodificar un mensaje que te enviaron, harás las mismas acciones que leíste anteriormente pero... *¡Sí, adivinaste!* En la sección de **Decode your message** y click en **Decode**:
+Si quieres cifrar un mensaje importante (*o simplemente no quieres que alguien no deseado pueda entenderlo*), escribirás o pegarás tu mensaje en la sección de **Cifra tu mensaje:**, elige una clave (algún número menor a 100) y click en **Cifrar**:
 
-![Gráfico 06](https://github.com/frankynztein/LIM009-Cipher/blob/master/images/readme-images/Readme-img-07.png)
+![Gráfico 07](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/spanish/cipher02.jpg)
 
 
-El resultado de tu cifrado/descifrado se mostrará en el área **Your encoded/decoded message here**. Tienes la opción de copiar el mensaje (_botón **Copy**_) para llevártelo a dónde desees :wink:
+En caso de querer decodificar un mensaje que te enviaron, harás las mismas acciones que leíste anteriormente pero... *¡Sí, adivinaste!* En la sección de **Descifra tu mensaje:**, ingresas la clave que te enviaron y click en **Descifrar**:
 
-![Gráfico 07](https://github.com/frankynztein/LIM009-Cipher/blob/master/images/readme-images/Readme-img-08.png)
+![Gráfico 08](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/spanish/cipher03.jpg)
+
+
+El resultado de tu cifrado/descifrado se mostrará en el área **Tu mensaje cifrado/descifrado:**. Tienes la opción de copiar el mensaje (_botón **Copiar**_) para llevártelo a dónde desees :wink:, con la opción de enviarlo a través de WhatsApp o correo electrónico.
+
+![Gráfico 09](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/spanish/cipher04.jpg)
