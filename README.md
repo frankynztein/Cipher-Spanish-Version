@@ -60,6 +60,10 @@ Además, tomando en cuenta que los fragmentos de código forman parte de la info
 ¿Necesitas enviar el mensaje rápidamente? ¡Tranquilx! WhatsApp viene al rescate con un enlace.
 Y para los más conservadores, el correo electrónico.
 
+
+**Area 51 Cipher** te ayudará a mantener los ojos equivocados lejos de tu información confidencial : wink:
+
+
 ## Usar Area 51 Cipher es la parte más sencilla ;)
 
 
@@ -83,3 +87,6 @@ En caso de querer decodificar un mensaje que te enviaron, harás las mismas acci
 El resultado de tu cifrado/descifrado se mostrará en el área **Tu mensaje cifrado/descifrado:**. Tienes la opción de copiar el mensaje (_botón **Copiar**_) para llevártelo a dónde desees :wink:, con la opción de enviarlo a través de WhatsApp o correo electrónico.
 
 ![Gráfico 09](https://github.com/frankynztein/Cipher-Spanish-Version/blob/master/images/spanish/cipher04.jpg)
+
+
+[Prueba la app AQUÍ.](https://frankynztein.github.io/Cipher-Spanish-Version/src/)
